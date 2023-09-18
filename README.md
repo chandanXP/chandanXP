@@ -7,7 +7,7 @@
     </a>
   </div>
 
-   <img src="https://komarev.com/ghpvc/?username=nishit123-git&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=chandanXP&style=flat-square&color=blue" alt=""/>
 
 
 <h1 align="center">Hi 👋, I'm Chandan Saroj</h1>
