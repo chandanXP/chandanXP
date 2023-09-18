@@ -10,7 +10,7 @@
    <img src="https://komarev.com/ghpvc/?username=nishit123-git&style=flat-square&color=blue" alt=""/>
 
 
-<h1 align="center">Hi 👋, I'm Nishit Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Chandan Saroj</h1>
 <h3 align="center">An Independent and self- motivated Computer Science graduate with proven and tested problem solving skills. Always willing and eager to learn new stuff.</h3>
 
 <div align="center">
@@ -19,11 +19,11 @@
 </div>
 
 
-- 🔭 I’m currently working on *Responsive Website for Hospital Management*
+- 🔭 I’m currently working on *Product Review System Using NLP*
 
-- 🌱 I’m currently learning *Android Development*
+- 🌱 I’m currently learning *Artificial intelligence and Machine learning*
 
--- 📫 How to reach me *nishitkashyap123@gmail.com*
+-- 📫 How to reach me *chandansaroj2298@gmail.com*
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1X4eA4hn_IIsQ2_S6SK27XYW5kH1jewCN/view))
 
