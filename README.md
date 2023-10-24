@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHoxcWU1ajZ2bzRlcTBnN3JuaXBleTRncXk4bWt2ZWIyN3YyOTFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*pjohGI7KjBLQdx1NuRBFVw.gif" width="300" height="200" />
 </div>
 
 
