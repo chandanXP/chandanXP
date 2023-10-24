@@ -14,7 +14,7 @@
 <h3 align="center">An Independent and self- motivated Computer Science graduate with proven and tested problem solving skills. Always willing and eager to learn new stuff.</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgybzgwc2huYms1bWp4anAzZjh4dWNyNmowM3JqNmtrZjk1czZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="300" height="250" />
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*pjohGI7KjBLQdx1NuRBFVw.gif" width="300" height="200" />
 </div>
 
