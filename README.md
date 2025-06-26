@@ -77,6 +77,7 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 - **Amazon ML Challenge 2023 Hackathon**: Participated and gained hands-on ML experience.  
 - **Bridge Course in AVR Game Development with Unity**: Completed course by CDAC Pune (2023).  
 - **Full-Stack Web Development**: 6-week course by Internshala (2023).
+- **Citations**: 2 Citation in My Reasearch Work.
 
 ## 🎯 Interests
 - **Chess**: Active player on [Chess.com](https://www.chess.com/member/chaupat_raja).  
