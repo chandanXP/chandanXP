@@ -19,7 +19,7 @@
 </div>
 
 
-- 🔭 I’m currently working on *Product Review System Using NLP*
+- 🔭 ASP.NET Developer and Full-Stack enthusiast with over a year of experience at NIELIT Ropar. I build and manage high-traffic portals like the NIELIT Exam and Admission systems (nielit.ac.in, nicedt.org) using ASP.NET, C#, Visual Basics, and MS SQL Server.*
 
 - 🌱 I’m currently learning *Artificial intelligence and Machine learning*
 
