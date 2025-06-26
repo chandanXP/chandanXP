@@ -21,7 +21,7 @@
 
 - 🔭 ASP.NET Developer and Full-Stack enthusiast with over a year of experience at NIELIT Ropar. I build and manage high-traffic portals like the NIELIT Exam and Admission systems (nielit.ac.in, nicedt.org) using ASP.NET, C#, Visual Basics, and MS SQL Server.*
 
-- 🌱 I’m currently learning *Artificial intelligence and Machine learning*
+- 🌱 I’m skilled in a versatile tech stack, including Python, JavaScript, Django, and Node.js, and have led innovative projects like an Identity Card Automation System using OpenCV and a Resume Summarization System with RNN, with my research published in Springer.*
 
 -- 📫 How to reach me *chandansaroj2298@gmail.com*
 
