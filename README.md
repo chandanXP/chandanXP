@@ -52,6 +52,8 @@ I'm an ASP.NET Developer and Full-Stack enthusiast with over a year of experienc
 </p>
 
 ## 🚀 Projects
+- **[Amigo - VS Code Extension]([https://idcardnielit.pythonanywhere.com/](https://marketplace.visualstudio.com/items?itemName=ChandanSaroj.amigo&ssr=false#overview))**  
+  As the founder and developer, I created Amigo, a Visual Studio Code extension that enhances project hygiene by scanning for unused files and offering an intuitive interface to manage them. Features include a Tree View, context menus, and persistent file ignore, streamlining the Software Development Life Cycle (SDLC). Available on the VS Code Marketplace.
 - **[Identity Card Automation System](https://idcardnielit.pythonanywhere.com/)**  
   Built an automated ID-card generation system using OpenCV to overlay employee details on a template with Python.
 - **[Automated Product Review Platform](https://github.com/chandanXP/scoutlab)**  
