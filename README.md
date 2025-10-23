@@ -1,8 +1,11 @@
-# Hi 👋, I'm Chandan Saroj
+### Chandan Saroj is a Computer Science graduate
+AI/ML Enthusiast and full-stack developer with hands-on experience in building scalable, real-world software solutions. Currently working as a Software Development Engineer at NIELIT Ropar, he designs and implements high-traffic exam and admission portals, integrating AI/ML capabilities to automate and enhance critical workflows.
 
-### An Independent and Self-Motivated Computer Science Graduate
+Chandan has expertise in Python, ASP.NET, C#, SQL, Django, Node.js, and modern AI/ML frameworks, enabling him to lead projects from concept to production. His work includes real-time object detection systems, automated identity card generation, and RNN-based resume classification, with several publications in Springer journals and recognition such as the Best Project in AI/ML at NICEDT 2025.
 
-I'm an ASP.NET Developer and Full-Stack enthusiast with over a year of experience at NIELIT Ropar, building high-traffic portals like the NIELIT Exam and Admission systems. Skilled in a versatile tech stack, I’ve led innovative projects like an Identity Card Automation System using OpenCV and a Resume Summarization System with RNN, with research published in Springer.
+Driven by the intersection of research, innovation, and practical application, Chandan explores generative AI, NLP, and computer vision to solve complex problems. Outside of technology, he is a chess enthusiast, music creator, and avid traveler, constantly seeking new challenges and perspectives.
+
+Email: imjunior471@gmail.com
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgybzgwc2huYms1bWp4anAzZjh4dWNyNmowM3JqNmtrZjk1czZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="300" height="250" />
