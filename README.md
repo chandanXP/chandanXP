@@ -1,4 +1,4 @@
-### Chandan Saroj is a Computer Science graduate
+### Chandan Saroj is a Software Development Engineer
 AI/ML Enthusiast and full-stack developer with hands-on experience in building scalable, real-world software solutions. Currently working as a Software Development Engineer at NIELIT Ropar, he designs and implements high-traffic exam and admission portals, integrating AI/ML capabilities to automate and enhance critical workflows.
 
 Chandan has expertise in Python, ASP.NET, C#, SQL, Django, Node.js, and modern AI/ML frameworks, enabling him to lead projects from concept to production. His work includes real-time object detection systems, automated identity card generation, and RNN-based resume classification, with several publications in Springer journals and recognition such as the Best Project in AI/ML at NICEDT 2025.
