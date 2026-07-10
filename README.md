@@ -79,6 +79,8 @@ Driven by the intersection of research, innovation, and practical application, C
 
 - **[Xperts Corner Institute (Freelance)](https://xciclasses.com/)**  
   Developed a web platform for an educational institute as a freelance project.
+- **[MY rent prediction app build at PIET (self made)](https://online-rent-predictor.onrender.com/)**  
+  Developed a Machine Learning app for rent Predction based on the size.
 
 ## 📜 Research Work
 Explore my publications on [Google Scholar](https://scholar.google.com/citations?user=_7qIvaoAAAAJ&hl=en):
