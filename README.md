@@ -133,10 +133,11 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="inthepress-release.png" width="180" alt="NICEDT Conference Press Release"/><br><sub>AI Recognition</sub></td>
-      <td align="center"><img src="nicedt-demo.gif" width="180" alt="NICEDT Conference Live Demo"/><br><sub>Tech Demos</sub></td>
-      <td align="center"><img src="hackathon-1.png" width="180" alt="Paranox Hackathon Team"/><br><sub>Hackathon 2.0</sub></td>
-      <td align="center"><img src="rap-show.png" width="180" alt="Rap Performance at Event"/><br><sub>Creative Spark</sub></td>
+      <td align="center"><img src="inthepress-release.png" width="180" alt="NICEDT Conference Press Release"/><br><sub>In Press Release</sub></td>
+      <td align="center"><img src="nicedt-demo.gif" width="180" alt="NICEDT Conference Live Demo"/><br><sub>Winning Awards in AI Fields</sub></td>
+      <td align="center"><img src="hackathon-1.png" width="180" alt="Paranox Hackathon Team"/><br><sub>Hackathon 2.0, 2nd Runner Up</sub></td>
+      <td align="center"><img src="rap-show.png" width="180" alt="Rap Performance at Event"/><br><sub>Musi</sub></td>
+      <td align="center"><img src="hackathon-2.png" width="180" alt="Code 24x7"/><br><sub>Coding Challenges</sub></td>
     </tr>
   </table>
 </div>
