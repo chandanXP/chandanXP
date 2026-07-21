@@ -4,12 +4,10 @@
   <h2><i>MERN Stack | CNN | LLMs | Agentic AI</i></h2>
 </div>
 
-<!-- 🟢 CHANGED: Shrunk the intro GIFs slightly to fit the new compact aesthetic -->
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgybzgwc2huYms1bWp4anAzZjh4dWNyNmowM3JqNmtrZjk1czZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="280" height="200" />
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*pjohGI7KjBLQdx1NuRBFVw.gif" width="280" height="200" />
 </div>
-<!-- 🟢 END CHANGED -->
 
 <br/>
 
@@ -51,25 +49,6 @@
 - 📫 **Contact**: Reach me at [chandansaroj2298@gmail.com](mailto:chandansaroj2298@gmail.com)
 - 📄 **Resume**: [View my full experience](https://drive.google.com/file/d/1X4eA4hn_IIsQ2_S6SK27XYW5kH1jewCN/view)
 - 🎬 **YouTube**: Creating music and tech content at [SarojXCI](https://www.youtube.com/@SarojXCI).
-
----
-
-<!-- 🟢 CHANGED: Grouped all the massive banners into a 2x2 "Comic Book" grid to make them much smaller and highly stylized -->
-## 📸 Highlights & Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>National AI Recognition</b><br><img src="inthepress-release.png" width="400" alt="NICEDT Conference Press Release"/></td>
-      <td align="center"><b>Live Tech Demos</b><br><img src="nicedt-demo.gif" width="400" alt="NICEDT Conference Live Demo"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Paranox 2.0 Hackathon</b><br><img src="hackathon-1.png" width="400" alt="Paranox Hackathon Team"/></td>
-      <td align="center"><b>Creative Spark (Rap Show)</b><br><img src="rap-show.png" width="400" alt="Rap Performance at Event"/></td>
-    </tr>
-  </table>
-</div>
-<!-- 🟢 END CHANGED -->
 
 ---
 
@@ -145,3 +124,20 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandanXP&show_icons=true&locale=en&theme=tokyonight&cardType=github" alt="chandanXP" />
 </div>
+
+---
+
+<!-- 🟢 CHANGED: Moved this entire section to the bottom, reduced the image sizes drastically, and aligned them in a single horizontal row using a 1x4 table grid -->
+## 📸 Highlights & Journey
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="inthepress-release.png" width="180" alt="NICEDT Conference Press Release"/><br><sub>AI Recognition</sub></td>
+      <td align="center"><img src="nicedt-demo.gif" width="180" alt="NICEDT Conference Live Demo"/><br><sub>Tech Demos</sub></td>
+      <td align="center"><img src="hackathon-1.png" width="180" alt="Paranox Hackathon Team"/><br><sub>Hackathon 2.0</sub></td>
+      <td align="center"><img src="rap-show.png" width="180" alt="Rap Performance at Event"/><br><sub>Creative Spark</sub></td>
+    </tr>
+  </table>
+</div>
+<!-- 🟢 END CHANGED -->
