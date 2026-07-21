@@ -4,10 +4,12 @@
   <h2><i>MERN Stack | CNN | LLMs | Agentic AI</i></h2>
 </div>
 
+<!-- 🟢 CHANGED: Shrunk the intro GIFs slightly to fit the new compact aesthetic -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgybzgwc2huYms1bWp4anAzZjh4dWNyNmowM3JqNmtrZjk1czZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="350" height="250" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*pjohGI7KjBLQdx1NuRBFVw.gif" width="350" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgybzgwc2huYms1bWp4anAzZjh4dWNyNmowM3JqNmtrZjk1czZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="280" height="200" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*pjohGI7KjBLQdx1NuRBFVw.gif" width="280" height="200" />
 </div>
+<!-- 🟢 END CHANGED -->
 
 <br/>
 
@@ -29,26 +31,16 @@
 
 <br/>
 
-<!-- 🟢 CHANGED: Added your specific press release banner using the exact uploaded file name -->
-<div align="center">
-  <img src="inthepress-release.png" alt="NICEDT Conference Press Release" width="100%"/>
-</div>
-<!-- 🟢 END CHANGED -->
-
-<!-- 🟢 CHANGED: Added your official portfolio website link -->
 <div align="center">
   <h3>✨ EXPLORE MY WORK ✨</h3>
   <a href="https://chandansaroj.in/">
     <img src="https://img.shields.io/badge/chandansaroj.in-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Portfolio Website Badge" width="200" height="40"/>
   </a>
 </div>
-<!-- 🟢 END CHANGED -->
 
 <br/>
 
-<!-- 🟢 CHANGED: Updated summary to accurately reflect your current position as a MERN Stack Developer at Webcreaters and past SDE role at NIELIT Ropar -->
 > **Passionate MERN Stack Developer** with hands-on experience building scalable, real-world solutions at the intersection of full-stack development and cutting-edge **Artificial Intelligence**. Currently building high-performance systems at **Webcreaters**, and previously designed high-traffic exam and admission portals as an SDE at NIELIT Ropar. I integrate AI/ML capabilities, including real-time object detection (CNN), LLMs, and agentic workflows, to automate and enhance critical workflows from concept to production.
-<!-- 🟢 END CHANGED -->
 
 <br/>
 
@@ -62,13 +54,26 @@
 
 ---
 
-## 🛠️ Neural Networks, Data & Development Stack
+<!-- 🟢 CHANGED: Grouped all the massive banners into a 2x2 "Comic Book" grid to make them much smaller and highly stylized -->
+## 📸 Highlights & Journey
 
-<!-- 🟢 CHANGED: Added the Hackathon banner using the uploaded PNG file -->
 <div align="center">
-  <img src="hackathon-1.png" alt="Paranox Hackathon Team" width="100%"/>
+  <table>
+    <tr>
+      <td align="center"><b>National AI Recognition</b><br><img src="inthepress-release.png" width="400" alt="NICEDT Conference Press Release"/></td>
+      <td align="center"><b>Live Tech Demos</b><br><img src="nicedt-demo.gif" width="400" alt="NICEDT Conference Live Demo"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Paranox 2.0 Hackathon</b><br><img src="hackathon-1.png" width="400" alt="Paranox Hackathon Team"/></td>
+      <td align="center"><b>Creative Spark (Rap Show)</b><br><img src="rap-show.png" width="400" alt="Rap Performance at Event"/></td>
+    </tr>
+  </table>
 </div>
 <!-- 🟢 END CHANGED -->
+
+---
+
+## 🛠️ Neural Networks, Data & Development Stack
 
 ### 🧠 AI & Machine Learning
 **Core**: Neural Networks, CNNs, Agentic AI, LLMs, Generative AI, Computer Vision  
@@ -96,7 +101,6 @@
 
 ## 🚀 Featured Projects
 
-<!-- 🟢 CHANGED: Integrated the specific URLs you provided for your highlighted projects -->
 - **[SimpleBit Crypto Platform](https://simple-bit.com/)**  
   A cryptocurrency tracking and management platform architected on the **MERN stack**.
 - **[NIELIT Secure Question Paper Platform](https://nielit.ac.in/)**  
@@ -111,17 +115,10 @@
   Engineered core backend availability and complex notification logic for a property management system.
 - **[DriveAI Navigation]**  
   An AI-navigated car dealership web interface highlighting automation and smart UX workflows.
-<!-- 🟢 END CHANGED -->
 
 ---
 
 ## 📜 Research Work (6 Citations)
-
-<!-- 🟢 CHANGED: Added the live presentation GIF for visual impact in the research section -->
-<div align="center">
-  <img src="nicedt-demo.gif" alt="NICEDT Conference Live Demo" width="80%"/>
-</div>
-<!-- 🟢 END CHANGED -->
 
 Explore my publications on [Google Scholar](https://scholar.google.com/citations?user=_7qIvaoAAAAJ&hl=en):
 - **Generating Synthetic Different House Floor Layout Images Using Diffusion Model** (2025)
@@ -140,12 +137,6 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
 ---
 
 ## 🎯 Dual Passions: Code & Creativity
-
-<!-- 🟢 CHANGED: Added the rap performance image using the uploaded PNG file -->
-<div align="center">
-  <img src="rap-show.png" alt="Rap Performance at Event" width="100%"/>
-</div>
-<!-- 🟢 END CHANGED -->
 
 - **Chess**: Active player on [Chess.com](https://www.chess.com/member/chaupat_raja).
 - **Music Production**: Rap artist; check out my latest vocal tracks and studio sessions on [SarojXCI](https://www.youtube.com/@SarojXCI).
