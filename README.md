@@ -138,7 +138,7 @@ Explore my publications on [Google Scholar](https://scholar.google.com/citations
       <td align="center"><img src="hackathon-1.png" width="180" alt="Paranox Hackathon Team"/><br><sub>Hackathon 2.0, 2nd Runner Up</sub></td>
       <td align="center"><img src="rap-show.png" width="180" alt="Rap Performance at Event"/><br><sub>Music</sub></td>
       <td align="center"><img src="hackathon-2.png" width="180" alt="Code 24x7"/><br><sub>Coding Challenges</sub></td>
-      <td align="center"><img src="indiaai-1.png" width="180" alt="Code 24x7"/><br><sub>Part of IndiaAi</sub></td>
+      <td align="center"><img src="indiaai-1.png" width="180" alt="Code 24x7"/><br><sub>Meity government project: IndiaAI</sub></td>
     </tr>
   </table>
 </div>
