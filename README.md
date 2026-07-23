@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-  <h1>🚀 Chandan Saroj: AI/ML Innovator | Full-Stack Architect</h1>
+  <h1>🚀 Chandan Saroj: AI/ML Enthusiast | Full-Stack Architect</h1>
   <h2><i>MERN Stack | CNN | LLMs | Agentic AI</i></h2>
 </div>
 
